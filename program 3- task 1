@@ -1,0 +1,9 @@
+#include <iostream.h>            //the program gives an error stating "no such file or directory exsists"
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
