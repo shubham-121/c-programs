@@ -1,0 +1,24 @@
+#include <iostream>
+int main()
+{
+    int a;
+    float f;
+    double d;
+    char c;
+    bool bo;
+    long l;
+    long double ld;
+
+    cout<<sizeof(int);
+    cout<<sizeof(a);
+
+    cout<<sizeof(float);
+    cout<<sizeof(f);
+
+    cout<<sizeof(double);
+    cout<<sizeof(d);
+
+    cout<<sizeof(bool);
+    cout<<sizeof(bo);
+
+}
