@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    char var;
+    cout<<"enter character"<<endl;
+    cin>>var;
+    cout<<var;            //prints only the first character of the word and looses the rest of the data
+    return 0;
+}
