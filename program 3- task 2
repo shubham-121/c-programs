@@ -1,0 +1,8 @@
+                                       //the program gives an error stating ""cout was not declared in this scope
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
