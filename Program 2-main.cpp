@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>                         //program to check whether a number is prime or not
 
 using namespace std;
 
