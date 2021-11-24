@@ -1,0 +1,11 @@
+#include <iostream>                   //the above issue can be resolved by using a getline function present in string.h header file
+#include<string.h>  
+using namespace std;  
+int main()  
+{  
+string name;  
+std::cout << "Enter your name :" << std::endl;  
+getline(cin,name);                     // using getline() function  
+cout<<"\n  Hello "<<name;  
+return 0;
+}  
